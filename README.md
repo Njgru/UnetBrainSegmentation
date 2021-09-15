@@ -1,4 +1,4 @@
 # UnetBrainSegmentation
-Unet architecture to segment metastatic brain lesions
+Unet architecture to segment Gliomas
 
 Unet Brain Segmentation Project
