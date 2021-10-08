@@ -1,4 +1,5 @@
 # UnetBrainSegmentation
-Unet architecture to segment Gliomas
+Unet architecture to segment Gliomas implemented with MONAI framework.
 
-Unet Brain Segmentation Project
+Used for RSNA-ASNR-MICCAI BraTS 2021 challenge submission
+
